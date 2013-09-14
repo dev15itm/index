@@ -1,4 +1,4 @@
 <?php
-echo 'PHPINFO';
+
 phpinfo();
 
